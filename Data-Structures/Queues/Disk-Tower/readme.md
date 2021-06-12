@@ -1,6 +1,4 @@
-# Hackerearth-Solutions
-
-## Disk tower
+# Disk tower
 
 Question on [Hackerearth](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/)
 
